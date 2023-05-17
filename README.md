@@ -1,5 +1,9 @@
 # JarvisAI
 
+## List of steps to configure Jarvis and HuggingGPT locally. Use along with video explanation: https://www.youtube.com/watch?v=sJY70H4deV0
+
+![Intro image v1](https://github.com/pablocity/JarvisAI/assets/23730106/37ad1a84-6ea5-476f-8bbf-6d4b87e3136e)
+
 ```
 wsl --install
 
